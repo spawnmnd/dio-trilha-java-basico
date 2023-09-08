@@ -1,6 +1,6 @@
 # dio-trilha-java-basico
 
-#Repositório criado para entrega dos desafios feitos para o bootcamp Java back-end realizado em 2023.
+# Repositório criado para entrega dos desafios feitos para o bootcamp Java back-end realizado em 2023.
 
 Desafio 1 - ContaBanco: consiste em pedir dados via terminal ao usuário e por fim retornar a ele as infos.
 
